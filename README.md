@@ -1,3 +1,3 @@
 # QuestoesApi
 
-<img src="imageEstadoV1.png"/>
+<img src="imagemEstadoV1.png"/>
